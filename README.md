@@ -3,8 +3,9 @@ CF gen for headless and headful cookie genning
 
 # setup
 npm i to install dependencies
-Server.js - non multi thread 
-server2.js - multithread
+-- Server.js - non multi thread 
+
+-- server2.js - multithread
 
 # extra stuff
 Use the click when running headless , set useragent override when doing headless on linux systems (i was too lazy to do this so im open sourcing lol) 
