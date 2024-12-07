@@ -1,0 +1,7 @@
+curl -X POST http://localhost:3000/get-cf-clearance \
+-H "Content-Type: application/json" \
+-d '{"url": "https://www.laptop.bg", "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"}'
+
+
+
+Heres an example post -- this can be setup with any request client (python requests, nodejs fetch, etc)
