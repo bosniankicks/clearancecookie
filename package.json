@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare-solver",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "chrome-launcher": "^1.1.2",
+    "chrome-remote-interface": "^0.33.2",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security"
+  }
+}
