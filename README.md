@@ -16,4 +16,4 @@ Headful works fine on all Operating Systems
 
 didnt add proxy but that should be easily doable, got finals and dont want to spend the time to do it (sorry sarto) 
 
-cloudflare devs if u wanna hit me up my discord is @pickumaternu , or amel @ b o s n i a n k i c k s dot com
+
